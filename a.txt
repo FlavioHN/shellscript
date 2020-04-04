@@ -1,0 +1,10 @@
+Teste de insercao de arquivo no git..
+
+Estudo dos comandos. 
+git init
+git status
+git add
+git commit -m ""
+git push
+git log
+git --oneline
