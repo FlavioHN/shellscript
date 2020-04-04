@@ -7,4 +7,5 @@ git add
 git commit -m ""
 git push
 git log
-git --oneline
+git log --oneline
+
